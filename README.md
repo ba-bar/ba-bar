@@ -26,7 +26,7 @@ Languages | English (Fluent), Arabic (Working knowledge), Urdu (Native)
 
 📂 Projects & Contributions
 
-✅ Media Quality Analyst – Simply.TV  
+✅ Media Quality Analyst – Starzplay & Simply.tv  
 - Reviewed over "220+ movies in 3 days" with complete subtitle, metadata, and video/audio QA.
 - Managed live asset tracking, publishing metadata, and skip code extraction.
 - Ensured subtitle sync in multiple languages and verified visual/audio consistency across devices.
