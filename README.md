@@ -68,8 +68,8 @@ Need help creating these mock files? Let me know and I’ll help build them for 
 
 📫 Contact Me
 
-- ✉️ Email: **babar.aslam.qa@gmail.com**  
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- ✉️ babaraslam06@gmail.com  
+- 🌐 https://www.linkedin.com/in/babaras/
 - 🧾 Fiverr/Upwork: Profiles coming soon!
 
 ---
