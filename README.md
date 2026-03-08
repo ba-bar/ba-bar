@@ -57,19 +57,10 @@ I specialize in reviewing and perfecting digital content across platforms like A
 
 ---
 
-## 🧩 Mock Projects (Sample QA Use Cases)
-
-> 🟢 [Video QA Test Sheet (Google Sheets)](https://example.com/mock-qa-sheet)  
-> 🟢 [Before/After Subtitle Sync Demo](https://example.com/subtitle-sync-demo)  
-> 🟢 [Metadata Enrichment Sample](https://example.com/sample-metadata-cleanup)
-
-Need help creating these mock files? Let me know and I’ll help build them for you.
-
-
 📫 Contact Me
 
 - ✉️ babaraslam06@gmail.com  
-- 🌐 https://www.linkedin.com/in/babaras/
+- 🌐 www.linkedin.com/in/baraslam
 - 🧾 Fiverr/Upwork: Profiles coming soon!
 
 ---
